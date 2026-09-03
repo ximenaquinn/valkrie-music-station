@@ -1,10 +1,10 @@
 <html>
-<style>background-color:blood red <style>
+
 
     
 
-
-<title>valkrie station</title>
+ <link rel="icon" type="image/png" href="valkirestation.png" />
+<title>valkyrie station</title>
 
 <body
 
